@@ -1,0 +1,10 @@
+* trivialib.type-unify
+
+Unification library aimed specifically for the "polymorphic type specifiers" with type variables
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/trivialib.type-unify.git   |
+| commit  | 940b5c5  |
+| systems | trivialib.type-unify |
+|---------+-------------------------------------------|
+
